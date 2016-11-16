@@ -1,0 +1,14 @@
+// Platzieren Sie Ihre Einstellungen in dieser Datei, um Standard- und Benutzereinstellungen zu überschreiben.
+{
+
+// Editor 
+
+    // Steuert die Schriftfamilie.
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+
+    // Steuert die Schriftbreite.
+    "editor.fontWeight": "normal",
+
+    // Steuert den Schriftgrad in Pixeln.
+    "editor.fontSize": 16,
+}
